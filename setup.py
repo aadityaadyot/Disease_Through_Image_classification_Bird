@@ -23,6 +23,6 @@ name= "DiseaseIdentification_Image_classification",
 version="0.0.1",
 author="aaditya adyot shrivastava",
 author_email="glsgobiii@gmail.com",
-install_requires=get_requirements(r'C:\Users\Aaditya Adyot\Downloads\chicken\requirements.txt'),
+install_requires=get_requirements(r'/config/workspace/requirements.txt'),
 package=find_packages(where="src")
 )
