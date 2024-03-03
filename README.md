@@ -13,14 +13,17 @@
 8. Update the main.py
 9. Update the dvc.yaml
 
-
+### DATASET
+```bash
+https://github.com/aadityaadyot/Branching_tutorial/raw/main/Dataset_chicks.zip
+```
 # How to run?
 ### STEPS:
 
 Clone the repository
 
 ```bash
-https://github.com/entbappy/Chicken-Disease-Classification--Project
+https://github.com/aadityaadyot/Disease_Through_Image_classification_Bird.git
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
